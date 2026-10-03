@@ -6,7 +6,7 @@
 
 这次纳新，我们没有采用常见的问卷填写方式，而是邀请你通过 Git 提交报名信息。
 
-不需要有编程基础。你只需按下面的流程发送部门+姓名；如果愿意，也可以聊聊自己的技术兴趣、做过的项目，或者想在技术小组尝试什么。遇到不熟悉的操作，可以查资料或使用 AI 辅助。如果使用了 AI，请在个人介绍中简单说明你是怎样使用的。遇到困难也可以随时联系我们。
+不需要有编程基础。你只需按下面的流程发送姓名+部门；如果愿意，也可以聊聊自己的技术兴趣、做过的项目，或者想在技术小组尝试什么。遇到不熟悉的操作，可以查资料或使用 AI 辅助。如果使用了 AI，请在个人介绍中简单说明你是怎样使用的。遇到困难也可以随时联系我们。
 
 ### 关于 Git
 作为一位（准）开发人员，你会遇到很多很多与他人合作完成项目的场景。你也许听说过“这个项目我Fork了”“这个项目我Star了”“我提交了一个PR”这样的说法，其实这都与Git息息相关。
@@ -19,9 +19,9 @@ Git 是一个开源的分布式版本控制系统，用于敏捷高效地处理�
 
 1. 访问[`github`](https://github.com)并注册一个账号。
 2. 联系QQ群里发布题目的ldx，告诉他你的`github昵称`。
-3. ldx会向你的github账号发送协作邀请，你会进入[`提交仓库`](https://github.com/zjjncsn/2025-evatech-joinus-submit-internal)用于提交你的作答。
+3. ldx会向你的github账号发送协作邀请，你会进入[`提交仓库`](https://github.com/Fishc66/2026-evatech-joinus-submit-internal)用于提交你的作答。
 4. 在电脑上安装并配置好 `Git`。Windows 系统建议在 `WSL` 中安装。Linux 和 Mac OS 上直接安装即可。
-5. `Fork` 这个[`提交仓库`](https://github.com/zjjncsn/2025-evatech-joinus-submit-internal)（如果 GitHub 无法打开，可将链接中的 `github.com` 改为 `gitee.com` 后访问）。
+5. `Fork` 这个[`提交仓库`](https://github.com/Fishc66/2026-evatech-joinus-submit-internal)（如果 GitHub 无法打开，可将链接中的 `github.com` 改为 `gitee.com` 后访问）。
 6. 将其 `clone` 到本地，新建一个分支，名称随意（命令行clone以后可以使用 Visual Studio Code 打开这个文件夹，简化操作。但我们推荐初学者使用命令行完成 Git 相关的全部操作）。
 7. 在**提交仓库**的 `submissions` 文件夹下新建一个名为 `<你的昵称+部门>.md` 的文件，在里面填写你的自我介绍。
 8. `提交` 你所做的更改，并将其 `上传` 至远程仓库
