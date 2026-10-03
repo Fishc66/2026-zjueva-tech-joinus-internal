@@ -21,19 +21,19 @@ Git 是一个开源的分布式版本控制系统，用于敏捷高效地处理�
 2. 联系QQ群里发布题目的ldx，告诉他你的`github昵称`。
 3. ldx会向你的github账号发送协作邀请，你会进入[`提交仓库`](https://github.com/Fishc66/2026-evatech-joinus-submit-internal)用于提交你的作答。
 4. 在电脑上安装并配置好 `Git`。Windows 系统建议在 `WSL` 中安装。Linux 和 Mac OS 上直接安装即可。
-5. `Fork` 这个[`提交仓库`](https://github.com/Fishc66/2026-evatech-joinus-submit-internal)（如果 GitHub 无法打开，可将链接中的 `github.com` 改为 `gitee.com` 后访问）。
+5. `Fork` 这个[`提交仓库`](https://github.com/Fishc66/2026-evatech-joinus-submit-internal)
 6. 将其 `clone` 到本地，新建一个分支，名称随意（命令行clone以后可以使用 Visual Studio Code 打开这个文件夹，简化操作。但我们推荐初学者使用命令行完成 Git 相关的全部操作）。
-7. 在**提交仓库**的 `submissions` 文件夹下新建一个名为 `<你的昵称+部门>.md` 的文件，在里面填写你的自我介绍。
+7. 在**提交仓库**的 `submissions` 文件夹下新建一个名为 `<姓名+部门>.md` 的文件，在里面填写你的自我介绍。
 8. `提交` 你所做的更改，并将其 `上传` 至远程仓库
 9. 在托管平台上进行 `Pull Requests`。
 
-如果你成功完成了以上所有步骤，那么恭喜你完成了纳新全部内容，欢迎你加入技术小组！
+如果你成功完成了以上所有步骤，那么恭喜你完成了纳新全部内容，欢迎你加入技术小组！ldx会把你拉进技术小组的群聊。
 
 ### 如果提交时遇到困难
 
 如果无法通过 Pull Request 提交，可以使用以下方式联系我们：
 
-- 在本仓库新建 Issue，附上加密后的个人介绍仓库链接。
+- 在本仓库新建 Issue，描述你遇到的问题。
 - 将个人介绍仓库的内容打包发送至 `zhuoyu_he@outlook.com`。
 - 通过 QQ 将个人介绍仓库的内容发送给我们。
 
